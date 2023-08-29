@@ -1,0 +1,16 @@
+temperature_from          = 50
+temperature_to            = 370
+temperature_num           = 6 #12
+fwhm_from                 = 1.0 #5.45498216
+fwhm_to                   = 8.0 #5.45498216
+fwhm_num                  = 4
+filling_factor_from_log   = 0
+filling_factor_to_log     = 0
+filling_factor_num_log    = 1
+frequency_from            = 84000 #84025.35381570314
+frequency_to              = 85000 #84961.02705084698
+n_channel                 = 2000 #1918
+log10Ntot_from            = 13.0
+log10Ntot_to              = 18.0
+log10Ntot_num             = 6 #12
+v_source                  = 0.0

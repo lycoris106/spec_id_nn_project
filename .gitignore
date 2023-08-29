@@ -1,0 +1,5 @@
+temp_files/*
+**/database_csv_patched.csv
+**/combined_database_CDMS_patched.txt
+**/combined_database_JPL.txt
+**/combined_database_CDMS.txt

@@ -1,0 +1,106 @@
++--------+---------------------------+-----------------------+
+|     id | mole_name                 |   matched_trans_count |
+|--------+---------------------------+-----------------------|
+|  13502 | CH                        |                     1 |
+|  26502 | C-13-CH                   |                     4 |
+|  32504 | CH3OH, vt=0-2             |                     1 |
+|  33502 | *C-13-H3OH, vt=0,1        |                     2 |
+|  34504 | CH3O-18-H,v=0-2           |                     2 |
+|  38502 | C2N                       |                     1 |
+|  38508 | c-C3H2                    |                     1 |
+|  43517 | HDNCN                     |                     2 |
+|  44506 | s-H2C=CHOH                |                     1 |
+|  45513 | c-CC-13-H4O               |                     1 |
+|  45515 | ethylamine,anti-conformer |                     1 |
+|  45516 | HC(O)NH2, v12=1           |                     3 |
+|  47518 | a-s-CH2DCH2OH             |                     1 |
+|  53515 | C2H3CN, v=0               |                     1 |
+|  54507 | H2CC-13-HCN, v=0          |                     1 |
+|  54508 | H2CCHC-13-N, v=0          |                     2 |
+|  55502 | C2H5CN, v=0               |                     1 |
+|  55505 | HSiCN                     |                     2 |
+|  55507 | C2H5NC                    |                     1 |
+|  55513 | C2H5CN, v20=1-A           |                     1 |
+|  55515 | DCCCHO                    |                     1 |
+|  56504 | C2H5C-13-N, v=0           |                     1 |
+|  56510 | CH2D(ip)CH2CN             |                     2 |
+|  56511 | CH2D(oop)CH2CN            |                     2 |
+|  57507 | CH3C-13-H2C-13-N, v=0     |                     3 |
+|  57508 | C-13-H3CH2C-13-N, v=0     |                     2 |
+|  57509 | C-13-H3C-13-H2CN, v=0     |                     1 |
+|  57512 | HOCH2CN                   |                     4 |
+|  58505 | s-Propanal, v=0           |                     4 |
+|  58508 | D2NCH2CN                  |                     1 |
+|  58515 | Oxetane                   |                     1 |
+|  58517 | s-Propanal, v24=1         |                     2 |
+|  58518 | s-Propanal, v23=1         |                     5 |
+|  58519 | g-Propanal, v=0           |                     5 |
+|  59509 | H2PCN                     |                     2 |
+|  60523 | CH3COOH, vt=0             |                     1 |
+|  60524 | CH3COOH, vt=1             |                     3 |
+|  60999 | CH3OCHO, vt=0,1           |                     2 |
+|  61515 | CH3OC-13-HO, vt=0,1       |                     1 |
+|  61517 | CHD(OH)CHO                |                     1 |
+|  61518 | CH2(OH)CDO                |                     1 |
+|  62504 | gGg' glycol               |                     4 |
+|  62524 | a-C2H5SH                  |                     3 |
+|  65502 | SOO-17                    |                     1 |
+|  65514 | HCCCH2CN                  |                     2 |
+|  66502 | SOO-18                    |                     1 |
+|  66506 | H2C(CN)2                  |                     2 |
+|  67502 | NCHCCO                    |                     1 |
+|  67503 | c-C3H5CN                  |                     1 |
+|  67504 | Pyrrole                   |                     3 |
+|  68506 | H2CNCH2CN                 |                     3 |
+|  69506 | i-C3H7CN                  |                     1 |
+|  69509 | a-n-C3H7CN, v30=1         |                     4 |
+|  69510 | g-n-C3H7CN, v29=1         |                     2 |
+|  69511 | a-n-C3H7CN, v18=1         |                     6 |
+|  69513 | a-n-C3H7CN, v30=2         |                     2 |
+|  69516 | i-C3H7CN, v30=1           |                     2 |
+|  69518 | Cyanooxirane              |                     2 |
+|  70504 | NCCONH2                   |                     3 |
+|  72501 | CaS, v=0,1                |                     1 |
+|  72504 | HOCHCHCHO                 |                     1 |
+|  72505 | vinyl formate             |                     2 |
+|  73501 | C6H                       |                     1 |
+|  73503 | HSCH2CN                   |                     4 |
+|  74503 | aa-diethyl ether          |                     3 |
+|  74515 | ag-diethyl ether          |                     5 |
+|  74516 | glyoxylic acid            |                     1 |
+|  74519 | CH3CHOHCHO                |                    10 |
+|  75511 | Glycine, conf. I          |                     2 |
+|  75512 | Glycine, conf. II         |                     5 |
+|  76503 | Benzyne                   |                     1 |
+|  76513 | aG'g-1,2-Propanediol      |                     9 |
+|  76514 | glycolic acid             |                     1 |
+|  76515 | gG'a-1,2-Propanediol      |                     6 |
+|  76516 | g'G'g-1,2-Propanediol     |                     8 |
+|  76518 | a'GG'g-1,3-Propanediol    |                    10 |
+|  76519 | gGG'g-1,3-Propanediol     |                     7 |
+|  76520 | g'Ga-1,2-Propanediol      |                     5 |
+|  76521 | gG'g'-1,2-Propanediol     |                     9 |
+|  76522 | aGg'-1,2-Propanediol      |                    10 |
+|  76523 | g'Gg-1,2-Propanediol      |                     5 |
+|  78505 | Pentadiynal               |                     1 |
+|  79501 | Pyridine                  |                     4 |
+|  80503 | S2O, v=0                  |                     2 |
+|  80505 | TiS                       |                     1 |
+|  80506 | OC(CN)2                   |                     2 |
+|  83501 | AA-n-C4H9CN               |                     2 |
+|  83502 | GA-n-C4H9CN               |                     9 |
+|  83505 | 2-CAB, v=0                |                    17 |
+|  83507 | 3-MGBN, v=0               |                    11 |
+|  84503 | Diketene                  |                     4 |
+|  89502 | a-Alanine, conf. I        |                     1 |
+|  89503 | a-Alanine, conf. II       |                     4 |
+|  92502 | G'Gg'gg'-Glycerol         |                     3 |
+|  94501 | Phenol                    |                    14 |
+|  96501 | cis-S2O2                  |                     1 |
+|  99501 | HC7N, v=0                 |                     1 |
+|  99503 | HC7N, v15=2               |                     1 |
+| 103501 | c-C6H5CN                  |                     3 |
+| 104501 | C6S                       |                     1 |
+| 106501 | Benzaldehyde              |                     9 |
+| 108501 | Anisole                   |                     6 |
++--------+---------------------------+-----------------------+
